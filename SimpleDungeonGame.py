@@ -77,7 +77,7 @@ for x in range(1):
         print("G A M E  O V E R")
         quit()
 
-#Simple plot development
+#Player has to make a decision, use simple str 'For Loop'
 print("")
 shackwoods = input("You continue to journey through the woods and find a shack, should you investigate {}? Please write 'Yes' or 'No'".format(charname))
 print("")
@@ -105,6 +105,7 @@ print("")
 
 randint = random.randint(100,200)
 
+#Finding loot in shack
 for x in range(1):
     if randint >= 120:
         print("You find a standard bronze sword, {}, looks like it was used in the Great War...".format(charname))

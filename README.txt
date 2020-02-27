@@ -6,6 +6,4 @@ The majority of this script is cosmetic, mainly to relate to the Python newcomme
 
 All feedback and insights are appreciated. :)
 
-(I have attached a documented .py script, as well as the .exe for standalone deployment, this .py script and .exe is just being run in the console...)
-
-Cheers
+(I have attached a documented .py script, as well as the .exe for standalone testing, this .py script and .exe is just being run in the console...)
